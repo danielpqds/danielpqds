@@ -5,7 +5,6 @@
 ##👨‍💻 Computer Science student at Descomplica Faculdade, diving deep into the world of algorithms and software engineering.
 
 ##🎓 Proficient in HTML, CSS, JavaScript, and Excel, with a passion for crafting intuitive user interfaces and efficient code. Also delved into the realms of Artificial Intelligence.
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
