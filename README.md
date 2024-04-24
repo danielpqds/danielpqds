@@ -1,16 +1,13 @@
-### Hi there 👋
+# 👋 Hello, world! Welcome to my Github profile.
 
-<!--
-**danielpqds/danielpqds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My name is Álvaro.
 
-Here are some ideas to get you started:
+##👨‍💻 Computer Science student at Descomplica Faculdade, diving deep into the world of algorithms and software engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##🎓 Proficient in HTML, CSS, JavaScript, and Excel, with a passion for crafting intuitive user interfaces and efficient code. Also delved into the realms of Artificial Intelligence.
+
+##🔧 Currently serving as an active-duty military member in the Brazilian Navy, where I've leveraged technologies like WordPress and Canva to streamline processes and enhance communication.
+
+##🌟 Seeking opportunities to contribute to JavaScript projects and collaborate with like-minded developers.
+
+##🌐 [LinkedIn](https://www.linkedin.com/in/%C3%A1lvaro-daniel-5a76562a9/)
