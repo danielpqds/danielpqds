@@ -10,4 +10,5 @@
 
 ##🌟 Seeking opportunities to contribute to JavaScript projects and collaborate with like-minded developers.
 
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg"/>
 ##🌐 [LinkedIn](https://www.linkedin.com/in/%C3%A1lvaro-daniel-5a76562a9/)
