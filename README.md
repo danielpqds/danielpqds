@@ -28,7 +28,5 @@
 
 
 
-![octocat-1713987601987](https://github.com/danielpqds/danielpqds/assets/155841513/9f29f825-6573-4a55-b6e9-542a84c75b58)
-
 
 
