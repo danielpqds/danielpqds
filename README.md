@@ -26,8 +26,9 @@
 <a href=(https://www.linkedin.com/in/%C3%A1lvaro-daniel-5a76562a9/) target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
-<img> ![octocat-1713987601987](https://github.com/danielpqds/danielpqds/assets/155841513/bae0fb6f-cc07-432b-9b44-a2f0d86de081) width="40" height="40 "</img>
 
+
+![octocat-1713987601987](https://github.com/danielpqds/danielpqds/assets/155841513/9f29f825-6573-4a55-b6e9-542a84c75b58)
 
 
 
