@@ -14,9 +14,6 @@
 <div>
 <a href="https://github.com/danielpqds">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielpqds&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=danielpqds&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
 ##🔧 Currently serving as an active-duty military member in the Brazilian Navy, where I've leveraged technologies like WordPress and Canva to streamline processes and enhance communication.
 
 ##🌟 Seeking opportunities to contribute to JavaScript projects and collaborate with like-minded developers.
